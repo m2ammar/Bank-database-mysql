@@ -4,7 +4,7 @@ A relational database project built in MySQL to simulate a real-world banking sy
 
 ---
 
-## 📁 About the Project
+##  About the Project
 
 This project models a simplified banking system with the following tables:
 
@@ -28,7 +28,7 @@ This project models a simplified banking system with the following tables:
 
 ---
 
-## 💡 What I Learned
+##  What I Learned
 
 - Designing relational tables with **primary and foreign keys**
 - Writing **INNER JOINs** across multiple tables
@@ -40,7 +40,7 @@ This project models a simplified banking system with the following tables:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - MySQL 8.0
 - MySQL Workbench
